@@ -1,0 +1,2 @@
+apple = """ffff"""
+apple = '''power'''
